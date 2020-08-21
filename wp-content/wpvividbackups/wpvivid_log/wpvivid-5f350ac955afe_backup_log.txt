@@ -1,0 +1,110 @@
+Log created: 2020-08-13 09:41:29
+Type: backup
+[2020-08-13 09:41:38][notice]Start backing up.
+[2020-08-13 09:41:38][notice]server info fcgi:Off max execution time: 900 wp version:5.1.4 php version:7.4.4 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:63.32 MB memory_get_peak_usage:63.50 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-13 09:41:38][notice]Prepare to backup backup_db files.
+[2020-08-13 09:41:38][notice]Start exporting database.
+[2020-08-13 09:41:38][notice]Preparing to dump table den_actionscheduler_actions
+[2020-08-13 09:41:38][notice]Preparing to dump table den_actionscheduler_claims
+[2020-08-13 09:41:38][notice]Preparing to dump table den_actionscheduler_groups
+[2020-08-13 09:41:38][notice]Preparing to dump table den_actionscheduler_logs
+[2020-08-13 09:41:38][notice]Preparing to dump table den_commentmeta
+[2020-08-13 09:41:38][notice]Preparing to dump table den_comments
+[2020-08-13 09:41:39][notice]Preparing to dump table den_email
+[2020-08-13 09:41:39][notice]Preparing to dump table den_gf_draft_submissions
+[2020-08-13 09:41:39][notice]Preparing to dump table den_gf_entry
+[2020-08-13 09:41:39][notice]Preparing to dump table den_gf_entry_meta
+[2020-08-13 09:41:39][notice]Preparing to dump table den_gf_entry_notes
+[2020-08-13 09:41:40][notice]Preparing to dump table den_gf_form
+[2020-08-13 09:41:40][notice]Preparing to dump table den_gf_form_meta
+[2020-08-13 09:41:40][notice]Preparing to dump table den_gf_form_revisions
+[2020-08-13 09:41:40][notice]Preparing to dump table den_gf_form_view
+[2020-08-13 09:41:40][notice]Preparing to dump table den_links
+[2020-08-13 09:41:40][notice]Preparing to dump table den_options
+[2020-08-13 09:41:41][notice]Preparing to dump table den_postmeta
+[2020-08-13 09:41:41][notice]Preparing to dump table den_posts
+[2020-08-13 09:41:42][notice]Preparing to dump table den_termmeta
+[2020-08-13 09:41:43][notice]Preparing to dump table den_terms
+[2020-08-13 09:41:43][notice]Preparing to dump table den_term_relationships
+[2020-08-13 09:41:43][notice]Preparing to dump table den_term_taxonomy
+[2020-08-13 09:41:43][notice]Preparing to dump table den_usermeta
+[2020-08-13 09:41:43][notice]Preparing to dump table den_users
+[2020-08-13 09:41:43][notice]Preparing to dump table den_wfblockediplog
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wfblocks7
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wfconfig
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wfcrawlers
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wffilechanges
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wffilemods
+[2020-08-13 09:41:44][notice]Preparing to dump table den_wfhits
+[2020-08-13 09:41:45][notice]Preparing to dump table den_wfhoover
+[2020-08-13 09:41:45][notice]Preparing to dump table den_wfissues
+[2020-08-13 09:41:45][notice]Preparing to dump table den_wfknownfilelist
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wflivetraffichuman
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wflocs
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wflogins
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wfls_2fa_secrets
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wfls_settings
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wfnotifications
+[2020-08-13 09:41:46][notice]Preparing to dump table den_wfpendingissues
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wfreversecache
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wfsnipcache
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wfstatus
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wftrafficrates
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wpfm_backup
+[2020-08-13 09:41:47][notice]Preparing to dump table den_wpmailsmtp_tasks_meta
+[2020-08-13 09:41:47][notice]Exporting database finished.
+[2020-08-13 09:41:47][notice]Start compressing backup_db
+[2020-08-13 09:41:47][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_db.zip
+[2020-08-13 09:41:47][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_db.zip, filesize: 7.03 MB
+[2020-08-13 09:41:47][notice]Compressing backup_db completed
+[2020-08-13 09:41:47][notice]Backing up backup_db completed.
+[2020-08-13 09:41:48][notice]Prepare to backup backup_themes files.
+[2020-08-13 09:41:48][notice]File number: 552
+[2020-08-13 09:41:48][notice]Start compressing backup_themes
+[2020-08-13 09:41:48][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_themes.zip
+[2020-08-13 09:42:05][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_themes.zip, filesize: 9.08 MB
+[2020-08-13 09:42:05][notice]Compressing backup_themes completed
+[2020-08-13 09:42:05][notice]Backing up backup_themes completed.
+[2020-08-13 09:42:07][notice]Prepare to backup backup_plugin files.
+[2020-08-13 09:42:07][notice]File number: 5424
+[2020-08-13 09:42:07][notice]Start compressing backup_plugin
+[2020-08-13 09:42:14][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_plugin.zip
+[2020-08-13 09:45:25][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_plugin.zip, filesize: 69.95 MB
+[2020-08-13 09:45:25][notice]Compressing backup_plugin completed
+[2020-08-13 09:45:25][notice]Backing up backup_plugin completed.
+[2020-08-13 09:45:26][notice]Prepare to backup backup_uploads files.
+[2020-08-13 09:45:26][notice]File number: 2051
+[2020-08-13 09:45:26][notice]Start compressing backup_uploads
+[2020-08-13 09:45:28][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_uploads.zip
+[2020-08-13 09:46:04][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_uploads.zip, filesize: 46.32 MB
+[2020-08-13 09:46:04][notice]Compressing backup_uploads completed
+[2020-08-13 09:46:04][notice]Backing up backup_uploads completed.
+[2020-08-13 09:46:04][notice]Prepare to backup backup_content files.
+[2020-08-13 09:46:04][notice]File number: 59
+[2020-08-13 09:46:04][notice]Start compressing backup_content
+[2020-08-13 09:46:04][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_content.zip
+[2020-08-13 09:46:05][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_content.zip, filesize: 7.80 MB
+[2020-08-13 09:46:05][notice]Compressing backup_content completed
+[2020-08-13 09:46:05][notice]Backing up backup_content completed.
+[2020-08-13 09:46:07][notice]Prepare to backup backup_core files.
+[2020-08-13 09:46:07][notice]File number: 1511
+[2020-08-13 09:46:07][notice]Start compressing backup_core
+[2020-08-13 09:46:09][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_core.zip
+[2020-08-13 09:47:11][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_core.zip, filesize: 35.49 MB
+[2020-08-13 09:47:11][notice]Compressing backup_core completed
+[2020-08-13 09:47:11][notice]Backing up backup_core completed.
+[2020-08-13 09:47:11][notice]Prepare to backup backup_merge files.
+[2020-08-13 09:47:11][notice]File number: 6
+[2020-08-13 09:47:11][notice]Start compressing backup_merge
+[2020-08-13 09:47:12][notice]Prepare to zip files. file: localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_all.zip
+[2020-08-13 09:47:28][notice]Adding zip files completed.localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_all.zip, filesize: 95.89 MB
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_plugin.zip
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_uploads.zip
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_core.zip
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_themes.zip
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_content.zip
+[2020-08-13 09:47:28][notice]Cleaned up file, filename: C:\xampp\htdocs\WPSPEED/wp-content\wpvividbackups\localhost_WPSPEED_wpvivid-5f350ac955afe_2020-08-13-05-41_backup_db.zip
+[2020-08-13 09:47:28][notice]Compressing backup_merge completed
+[2020-08-13 09:47:28][notice]Backing up backup_merge completed.
+[2020-08-13 09:47:29][notice]Backup completed.
+[2020-08-13 09:47:29][notice]Backup succeeded.

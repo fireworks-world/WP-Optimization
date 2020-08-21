@@ -1,0 +1,79 @@
+#facebox .b {
+  background:url(b.png);
+}
+
+#facebox .tl {
+  background:url(tl.png);
+}
+
+#facebox .tr {
+  background:url(tr.png);
+}
+
+#facebox .bl {
+  background:url(bl.png);
+}
+
+#facebox .br {
+  background:url(br.png);
+}
+
+#facebox {
+  position: absolute;
+  width: 100%;
+  z-index:9999 !important;
+  top: 0;
+  left: 0;  text-align: left;
+}
+
+#facebox .popup {
+  position: relative;
+}
+
+#facebox table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+#facebox .body {
+  padding: 0px;
+  background:url(../images/tellbg.jpg) repeat-x left top #fff;
+  width: 300px;
+  height:auto;
+    z-index:1000;
+}
+
+#facebox .loading {
+  text-align: center;
+  margin: 0px 0px 0px 0px!important;
+  font-size: 10px!important;
+}
+
+#facebox .loading:before {
+  text-align: center;
+  margin: 0px 0px 0px 0px!important;
+  font-size: 2px!important;
+}
+
+#facebox .image {
+  text-align: center;
+}
+
+#facebox img {
+  border: 0; margin:0px 0px 0px 0px;
+  }
+
+#facebox .footer {
+  border-top: 1px solid #DDDDDD;
+  padding-top: 5px;
+  text-align: right;
+  background:#fff;
+
+}
+
+#facebox .tl, #facebox .tr, #facebox .bl, #facebox .br {
+  height: 10px;
+  width: 10px;
+  overflow: hidden;
+  padding: 0;
+}

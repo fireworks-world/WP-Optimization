@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /thank-you/
+Disallow: /backup-14-05-2015/
+Disallow: /backup/
+
+Sitemap: http://www.shorttermbraces.com/sitemap_index.xml

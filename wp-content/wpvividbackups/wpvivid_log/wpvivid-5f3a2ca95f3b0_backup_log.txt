@@ -1,0 +1,113 @@
+Log created: 2020-08-17 07:07:21
+Type: backup
+[2020-08-17 07:07:24][notice]Start backing up.
+[2020-08-17 07:07:24][notice]server info fcgi:Off max execution time: 900 wp version:5.5 php version:7.2.32 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:51.48 MB memory_get_peak_usage:51.96 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-17 07:07:24][notice]Prepare to backup backup_db files.
+[2020-08-17 07:07:24][notice]Start exporting database.
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfLogins
+[2020-08-17 07:07:24][notice]Preparing to dump table den_actionscheduler_groups
+[2020-08-17 07:07:24][notice]Preparing to dump table den_termmeta
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_form_meta
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_draft_submissions
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_form_view
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfStatus
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfKnownFileList
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_form
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfConfig
+[2020-08-17 07:07:24][notice]Preparing to dump table den_smush_dir_images
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfFileMods
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_form_revisions
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfPendingIssues
+[2020-08-17 07:07:24][notice]Preparing to dump table den_actionscheduler_actions
+[2020-08-17 07:07:24][notice]Preparing to dump table den_actionscheduler_logs
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfls_2fa_secrets
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfLocs
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfBlocks7
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfCrawlers
+[2020-08-17 07:07:24][notice]Preparing to dump table den_term_relationships
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfls_settings
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_entry
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfTrafficRates
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfIssues
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfSNIPCache
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wpmailsmtp_tasks_meta
+[2020-08-17 07:07:24][notice]Preparing to dump table den_links
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfHoover
+[2020-08-17 07:07:24][notice]Preparing to dump table den_shortpixel_folders
+[2020-08-17 07:07:24][notice]Preparing to dump table den_actionscheduler_claims
+[2020-08-17 07:07:24][notice]Preparing to dump table den_term_taxonomy
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_entry_notes
+[2020-08-17 07:07:24][notice]Preparing to dump table den_wfNotifications
+[2020-08-17 07:07:24][notice]Preparing to dump table den_shortpixel_meta
+[2020-08-17 07:07:24][notice]Preparing to dump table den_options
+[2020-08-17 07:07:24][notice]Preparing to dump table den_email
+[2020-08-17 07:07:24][notice]Preparing to dump table den_gf_entry_meta
+[2020-08-17 07:07:24][notice]Preparing to dump table den_terms
+[2020-08-17 07:07:24][notice]Preparing to dump table den_comments
+[2020-08-17 07:07:24][notice]Preparing to dump table den_posts
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wfHits
+[2020-08-17 07:07:25][notice]Preparing to dump table den_commentmeta
+[2020-08-17 07:07:25][notice]Preparing to dump table den_usermeta
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wpfm_backup
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wfLiveTrafficHuman
+[2020-08-17 07:07:25][notice]Preparing to dump table den_users
+[2020-08-17 07:07:25][notice]Preparing to dump table den_postmeta
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wfReverseCache
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wfBlockedIPLog
+[2020-08-17 07:07:25][notice]Preparing to dump table den_wfFileChanges
+[2020-08-17 07:07:25][notice]Exporting database finished.
+[2020-08-17 07:07:25][notice]Start compressing backup_db
+[2020-08-17 07:07:25][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_db.zip
+[2020-08-17 07:07:25][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_db.zip, filesize: 7.77 MB
+[2020-08-17 07:07:25][notice]Compressing backup_db completed
+[2020-08-17 07:07:25][notice]Backing up backup_db completed.
+[2020-08-17 07:07:25][notice]Prepare to backup backup_themes files.
+[2020-08-17 07:07:25][notice]File number: 612
+[2020-08-17 07:07:25][notice]Start compressing backup_themes
+[2020-08-17 07:07:25][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_themes.zip
+[2020-08-17 07:07:26][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_themes.zip, filesize: 10.67 MB
+[2020-08-17 07:07:26][notice]Compressing backup_themes completed
+[2020-08-17 07:07:26][notice]Backing up backup_themes completed.
+[2020-08-17 07:07:26][notice]Prepare to backup backup_plugin files.
+[2020-08-17 07:07:26][notice]File number: 5289
+[2020-08-17 07:07:26][notice]Start compressing backup_plugin
+[2020-08-17 07:07:26][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_plugin.zip
+[2020-08-17 07:07:34][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_plugin.zip, filesize: 70.20 MB
+[2020-08-17 07:07:34][notice]Compressing backup_plugin completed
+[2020-08-17 07:07:34][notice]Backing up backup_plugin completed.
+[2020-08-17 07:07:34][notice]Prepare to backup backup_uploads files.
+[2020-08-17 07:07:34][notice]File number: 2600
+[2020-08-17 07:07:34][notice]Start compressing backup_uploads
+[2020-08-17 07:07:34][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_uploads.zip
+[2020-08-17 07:07:39][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_uploads.zip, filesize: 56.36 MB
+[2020-08-17 07:07:39][notice]Compressing backup_uploads completed
+[2020-08-17 07:07:39][notice]Backing up backup_uploads completed.
+[2020-08-17 07:07:39][notice]Prepare to backup backup_content files.
+[2020-08-17 07:07:39][notice]File number: 54
+[2020-08-17 07:07:39][notice]Start compressing backup_content
+[2020-08-17 07:07:39][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_content.zip
+[2020-08-17 07:07:39][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_content.zip, filesize: 7.67 MB
+[2020-08-17 07:07:39][notice]Compressing backup_content completed
+[2020-08-17 07:07:39][notice]Backing up backup_content completed.
+[2020-08-17 07:07:39][notice]Prepare to backup backup_core files.
+[2020-08-17 07:07:39][notice]File number: 1760
+[2020-08-17 07:07:39][notice]Start compressing backup_core
+[2020-08-17 07:07:39][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_core.zip
+[2020-08-17 07:07:42][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_core.zip, filesize: 42.47 MB
+[2020-08-17 07:07:42][notice]Compressing backup_core completed
+[2020-08-17 07:07:42][notice]Backing up backup_core completed.
+[2020-08-17 07:07:42][notice]Prepare to backup backup_merge files.
+[2020-08-17 07:07:42][notice]File number: 6
+[2020-08-17 07:07:42][notice]Start compressing backup_merge
+[2020-08-17 07:07:42][notice]Prepare to zip files. file: nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_all.zip
+[2020-08-17 07:07:50][notice]Adding zip files completed.nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_all.zip, filesize: 103.29 MB
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_plugin.zip
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_uploads.zip
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_core.zip
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_themes.zip
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_db.zip
+[2020-08-17 07:07:50][notice]Cleaned up file, filename: /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/wpvividbackups/nomlatest.testsbsoft.com_wpvivid-5f3a2ca95f3b0_2020-08-17-03-07_backup_content.zip
+[2020-08-17 07:07:50][notice]Compressing backup_merge completed
+[2020-08-17 07:07:50][notice]Backing up backup_merge completed.
+[2020-08-17 07:07:50][notice]Backup completed.
+[2020-08-17 07:07:50][notice]Backup succeeded.

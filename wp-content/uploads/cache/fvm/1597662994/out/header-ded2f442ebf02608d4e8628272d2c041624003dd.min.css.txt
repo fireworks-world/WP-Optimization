@@ -1,0 +1,11 @@
+PROCESSED on Mon, 17 Aug 2020 11:19:10 +0000
+/wp-includes/css/dist/block-library/style.min.css --- Debug: [wp-block-library] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-includes/css/dist/block-library/style.min.css ---
+/wp-content/themes/david-silberman/genericons/genericons.css --- Debug: [genericons] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/themes/david-silberman/genericons/genericons.css ---
+/wp-content/themes/david-silberman/style.css --- Debug: [twentyfourteen-style] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/themes/david-silberman/style.css ---
+/wp-content/plugins/gravityforms/css/formreset.min.css --- Debug: [gforms_reset_css] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/plugins/gravityforms/css/formreset.min.css ---
+/wp-content/plugins/gravityforms/css/formsmain.min.css --- Debug: [gforms_formsmain_css] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/plugins/gravityforms/css/formsmain.min.css ---
+/wp-content/plugins/gravityforms/css/readyclass.min.css --- Debug: [gforms_ready_class_css] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/plugins/gravityforms/css/readyclass.min.css ---
+/wp-content/plugins/gravityforms/css/browsers.min.css --- Debug: [gforms_browsers_css] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/plugins/gravityforms/css/browsers.min.css ---
+/wp-content/uploads/pum/pum-site-styles.css?generated=1593622663 --- Debug: [popup-maker-site] was fetched from http://nomlatest.testsbsoft.com/wp-content/uploads/pum/pum-site-styles.css?generated=1593622663 ---
+/wp-content/plugins/wp-paginate/css/wp-paginate.css --- Debug: [wp-paginate] was opened from /home/eestsbsoft/nomlatest.testsbsoft.com/wp-content/plugins/wp-paginate/css/wp-paginate.css ---
+PROCESSED from http://nomlatest.testsbsoft.com/?post_type=popup&p=1137

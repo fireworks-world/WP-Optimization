@@ -1,0 +1,34 @@
+<?php 
+include("../../../../wp-load.php"); 
+$cat_id=$_REQUEST['id'];
+
+			$subcategories = $wpdb->get_results( 
+				"
+				SELECT *
+				FROM tbl_gallerysubcategory
+				WHERE category_id =".$cat_id." and status='Y' 
+				"
+			);		  
+		  $count=count($subcategories);
+		  if($count>0)
+		  {
+		  ?>
+		  <select name="subcat" id="subcat">
+		  <option value="0">Select Sub Category</option>
+			  <?php
+				foreach ( $subcategories as $values ) 
+				{
+			  ?>
+			  <option  value="<?php echo $values->subcategory_id; ?>"><?php echo $values->subcategory_name; ?></option>
+			  <?php
+				}
+			  ?>
+		  </select>
+		  <?php
+		  }
+		  else
+		  {
+		  echo '<span style="color:#FF0000">Please select a Category Name</span>';
+		  //"No Sub Category's Found";
+		  }
+		   ?>

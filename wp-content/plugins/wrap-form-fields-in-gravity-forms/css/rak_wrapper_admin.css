@@ -1,0 +1,29 @@
+#gform_fields li.gform_item_wrappe .field_duplicate_icon {
+	display: none !important;
+}
+
+#gform_fields li.gform_wrapper .tooltip_form_field_label {
+	display: none;
+}
+
+#gform_fields li.gform_item_wrappe_begin {
+	border-top: 1px black dotted;
+	border-left: 1px black dotted;
+}
+
+#gform_fields li.gform_item_wrappe_begin .gfield_label {
+	font-size: 130%;
+}
+
+#gform_fields li.gform_item_wrappe_end {
+	border-bottom: 1px black dotted;
+	border-left: 1px black dotted;
+}
+	
+#gform_fields li.gform_item_wrappe_end .field_delete_icon,
+#gform_fields li.gform_item_wrappe_end .field_edit_icon,
+#gform_fields li.gform_item_wrappe_end .gfield_label,
+#gform_fields li.gform_item_wrappe_end .ui-tabs,
+#gform_fields li.gform_item_wrappe_end .gfield_description {
+	display: none !important;
+}

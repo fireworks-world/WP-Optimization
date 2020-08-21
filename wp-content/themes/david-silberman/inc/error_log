@@ -1,0 +1,2 @@
+[04-Dec-2018 04:10:45 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/shortter/public_html/wp-content/themes/david-silberman/inc/customizer.php on line 59
+[06-Dec-2018 18:29:42 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/shortter/public_html/wp-content/themes/david-silberman/inc/customizer.php on line 59

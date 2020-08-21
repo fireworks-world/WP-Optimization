@@ -1,0 +1,13 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^m\.shorttermbraces\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.m\.shorttermbraces\.com$
+RewriteRule ^/?$ "http\:\/\/www\.shorttermbraces\.com\/" [R=301,L]
+
+redirect 301 /Shorttermbraces/Pages/1406/veneers http://www.shorttermbraces.com/cosmetic-dentistry/veneers-crowns/
+redirect 301 /Shorttermbraces/Contact/1410/contact-us http://www.shorttermbraces.com/contact-us/location/
+redirect 301 /Shorttermbraces/Pages/1424/tooth-whitening http://www.shorttermbraces.com/cosmetic-dentistry/tooth-whitening/
+redirect 301 /Shorttermbraces/Pages/1425/other-services http://www.shorttermbraces.com/
+redirect 301 /Shorttermbraces/Pages/1405/short-term-braces http://www.shorttermbraces.com/services/short-term-braces/
+redirect 301 /Shorttermbraces/Pages/1404/about-the-practice http://www.shorttermbraces.com/about/about-the-practice/
+redirect 301 /Shorttermbraces/External-link/1452/image-gallery http://www.shorttermbraces.com/smile-gallery/

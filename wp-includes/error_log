@@ -1,0 +1,10 @@
+[27-Dec-2016 15:49:38 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[29-Dec-2016 06:52:16 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 07:49:57 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[10-Jan-2017 01:30:17 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/shortter/public_html/wp-includes/functions.php on line 8
+[10-Jan-2017 01:30:17 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/shortter/public_html/wp-includes/functions.php on line 8
+[10-Jan-2017 01:30:17 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shortter/public_html/wp-includes/functions.php on line 8
+[21-Mar-2017 00:33:44 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[24-Mar-2017 09:08:12 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[21-Oct-2017 21:12:19 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/registration-functions.php on line 7
+[25-Oct-2018 03:24:20 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/shortter/public_html/wp-includes/rss-functions.php on line 8

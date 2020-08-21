@@ -1,0 +1,2 @@
+[25-Nov-2017 20:26:17 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/shortter/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 20:29:42 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/shortter/public_html/wp-admin/user/menu.php on line 10
